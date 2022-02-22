@@ -1,2 +1,2 @@
-# prediction of credit card client defaulters
+# Prediction of credit card client defaulters
 
